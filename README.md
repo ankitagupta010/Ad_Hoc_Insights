@@ -21,28 +21,28 @@ Build a presentation for top management to explain the insights clearly.
 
 ## My Process
 
-# SQL Querying
+## SQL Querying
 
 Used MySQL to write and run queries to collect the required data.
 
-# Data Visualization
+## Data Visualization
 
 Used Power BI to turn the data into easy-to-read visuals.
 
-# Presentation Building
+## Presentation Building
 
 Created a clean and professional PowerPoint presentation to share the findings.
 
-# Business Insights
+## Business Insights
 
 Added meaningful recommendations to help the management team make better decisions.
 
-# Result
+## Result
 
 This project allowed me to showcase my ability to work with data from start to finish—writing SQL queries, analyzing results, creating visualizations, and presenting insights in a simple and effective way.
 It improved both my technical skills and my ability to clearly communicate data insights.
 
-# What’s Included
+## What’s Included
 
 ad-hoc-requests.pdf – The list of business questions to solve
 
